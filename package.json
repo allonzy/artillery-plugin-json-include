@@ -1,0 +1,12 @@
+{
+  "name": "artillery-plugin-json-include",
+  "version": "1.0.6",
+  "keywords": ["artillery","plugin","json"],
+  "description": "A small plugin to load json from file on payload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simon.vivier <simviv28@hotmail.fr>",
+  "license": "ISC"
+}
