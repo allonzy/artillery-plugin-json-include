@@ -1,4 +1,4 @@
-# artilery-plugin-json-include
+# artillery-plugin-json-include
 
 This is a small artillery.io plugin that allow to load json from files during tests
 
