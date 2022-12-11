@@ -1,6 +1,6 @@
 {
   "name": "artillery-plugin-json-include",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "keywords": ["artillery","plugin","json"],
   "description": "A small plugin to load json from file on payload",
   "main": "index.js",
